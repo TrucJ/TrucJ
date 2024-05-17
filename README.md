@@ -1,5 +1,6 @@
 # TrucJ  -  Trung Truc  -  Black Panther
 
+### Contributions Over the Past Year
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TrucJ/TrucJ/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TrucJ/TrucJ/output/github-contribution-grid-snake.svg">
