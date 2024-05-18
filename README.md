@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poetsen%20One&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+%F0%9F%91%8B;I%27m+TrucJ;I%27m+Trung+Truc;I%27m+Black+Panther;" />
 </h1>
 
-<hr/>
-
 ### ⚡ Contributions
 <div align=center>
   <picture>
